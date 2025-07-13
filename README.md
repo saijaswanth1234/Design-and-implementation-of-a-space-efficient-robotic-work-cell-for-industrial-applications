@@ -1,1 +1,1 @@
-# Design-and-implementation-of-a-space-efficient-robotic-work-cell-for-industrial-applications
+# Design and Implementation of a space-efficient robotic workcell for Industrial Applications
