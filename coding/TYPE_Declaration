@@ -1,1 +1,12 @@
-
+TYPE ST_WorkpiecePlacement :
+STRUCT
+     ApproachPosID : INT;
+     PlacePosID    : INT;
+     ApproachX     : LREAL;
+     ApproachY     : LREAL;
+     ApproachZ     : LREAL;
+     PlaceX        : LREAL;
+     PlaceY        : LREAL;
+     PlaceZ        : LREAL;
+END_STRUCT
+END_TYPE
