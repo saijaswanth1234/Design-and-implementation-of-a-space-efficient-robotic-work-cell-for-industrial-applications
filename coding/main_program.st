@@ -134,7 +134,7 @@ ELSE
 		61:
             MoveToPosition(
                 PositionID 	:= 20,
-                TargetX 	:= 4,
+                TargetX 	:= 15,
                 TargetY 	:= -405,
                 TargetZ 	:= 110,
 				Velocity 	:= 10,
