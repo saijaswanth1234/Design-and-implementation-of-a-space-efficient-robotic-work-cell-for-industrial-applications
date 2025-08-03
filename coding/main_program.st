@@ -195,7 +195,7 @@ ELSE
             MoveToPosition(
                 PositionID 	:= 23,
                 TargetX 	:= -33,
-                TargetY 	:= -368,
+                TargetY 	:= -347,
                 TargetZ 	:= 106,
 				Velocity 	:= 10,
             );
@@ -207,7 +207,7 @@ ELSE
             MoveToPosition(
                 PositionID 	:= 24,
                 TargetX 	:= -32,
-                TargetY 	:= -365,
+                TargetY 	:= -347,
                 TargetZ 	:= 73,
 				Velocity 	:= 10,
             );
@@ -219,7 +219,7 @@ ELSE
             MoveToPosition(
                 PositionID 	:= 25,
                 TargetX 	:= -32,
-                TargetY 	:= -385,
+                TargetY 	:= -386,
                 TargetZ 	:= 73,
 				Velocity 	:= 10,
             );
@@ -231,7 +231,7 @@ ELSE
             MoveToPosition(
                 PositionID 	:= 24,
                 TargetX 	:= -32,
-                TargetY 	:= -365,
+                TargetY 	:= -347,
                 TargetZ 	:= 73,
 				Velocity 	:= 10,
             );
@@ -243,7 +243,7 @@ ELSE
             MoveToPosition(
                 PositionID 	:= 23,
                 TargetX 	:= -33,
-                TargetY 	:= -368,
+                TargetY 	:= -347,
                 TargetZ 	:= 106,
 				Velocity 	:= 8,
             );
