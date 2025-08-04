@@ -1,6 +1,6 @@
 # Design and implementation of a space-efficient robotic workcell for industrial applications
 
-This repository contains all the CAD designs, STL models, and Structured Text (ST) code developed for my master's thesis at Hochschule Schmalkalden. The project involves building a compact robotic workcell for automated pick-and-place operations using a Pilz PRBT6 robot, a Schunk electric gripper, and a conveyor system, all coordinated through a Berghof B-Nimis industrial controller.
+This repository contains all the CAD designs, STL models, and Structured Text (ST) code developed for my master's thesis at Hochschule Schmalkalden, as well as a demonstration video of the robotic workcell in action. The project involves building a compact robotic workcell for automated pick-and-place operations using a Pilz PRBT6 robot, a Schunk electric gripper, and a conveyor system, all coordinated through a Berghof B-Nimis industrial controller.
 
 ---
 
@@ -11,6 +11,7 @@ This repository contains all the CAD designs, STL models, and Structured Text (S
 ├── 3D CAD Models/         # 3D assemblies and part models designed in SolidWorks
 ├── STL files/             # Printable STL files for 3D-printed custom components
 ├── coding/                # CoDeSys PLC code (Structured Text) for robot, gripper, and conveyor
+├── IMG_5395.MOV           # Video: Full pick-and-place cycle with Pilz PRBT6 robot (Git LFS)
 ├── LICENSE                # MIT License for academic use
 └── README.md              # This project overview file
 ```
@@ -49,6 +50,11 @@ Included files:
 > The full project file is **not shared** publicly due to confidentiality, as it contains sensitive configuration and controller-specific details. Only key logic files are included for educational reference.
 
 ---
+🎥 Demonstration Video
+A video of the full pick-and-place operation cycle using the Pilz PRBT6 robot is included in this repository as IMG_5395.MOV (downloadable with Git LFS).
+
+You can also view and download the video directly from Google Drive here:
+[Pick-and-place full cycle video](https://drive.google.com/file/d/1d2Tzha2PRA3JoMwxCZ5N9d68g4B4LuIS/view?usp=drive_link)
 
 ## 🔷 CAD and STL files
 
